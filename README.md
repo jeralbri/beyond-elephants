@@ -1,2 +1,2 @@
 # beyond-elephants
-Pedagogical Resources for Mathematical Principals in Data Science
+Pedagogical Resources for Mathematical Principles in Data Science
